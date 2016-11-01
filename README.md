@@ -12,4 +12,4 @@ Maintenant je suis ni ton pote, ni ton amoureux
 Je suis plus rien, juste un mec qui voulait être heureux
 Je vais continuer à être triste
 Quelle est la différence entre toi et moi ?
-C'est que moi je compte encore les jours et toi je sais bien que tu les compte pas
+C'est que moi je compte encore les jours et toi je sais bien que tu les compte pas.
